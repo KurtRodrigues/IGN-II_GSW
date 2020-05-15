@@ -6,3 +6,11 @@ Repositorio voltado para a cadeira de "Engenharia de software II" da facultade F
 Neste serão contidos os arquivos para o projeto proposto pela empresa GSW de gerenciamento e inscrição de vagas
 para aqueles que almejam o ingresso no quadro de funcionários. 
 
+------------------------------------------------------------------------------------------------------------------------
+Equipe 
+
+CLARISSE SANTOS; desenvolvedora.          
+DOUGLAS BARBOSA; PO                      
+JAQUELINE BEZERRA; desenvolvedora.       
+RAFAEL RODRIGUES; SCRUM master           Contato: Kurt.Rodrigs@gmail.com 
+
