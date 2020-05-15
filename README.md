@@ -12,5 +12,5 @@ Equipe
 CLARISSE SANTOS; desenvolvedora.          
 DOUGLAS BARBOSA; PO                      
 JAQUELINE BEZERRA; desenvolvedora.       
-RAFAEL RODRIGUES; SCRUM master           Contato: Kurt.Rodrigs@gmail.com 
+RAFAEL RODRIGUES; SCRUM master      ----->   Contato: Kurt.Rodrigs@gmail.com 
 
