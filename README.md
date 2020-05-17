@@ -7,7 +7,7 @@ Neste serão contidos os arquivos para o projeto proposto pela empresa GSW de ge
 para aqueles que almejam o ingresso no quadro de funcionários. 
 
 ------------------------------------------------------------------------------------------------------------------------
-Equipe 
+**Equipe 
 
 CLARISSE SANTOS; desenvolvedora.          
 DOUGLAS BARBOZA; PO                      
