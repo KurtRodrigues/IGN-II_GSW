@@ -12,5 +12,5 @@ para aqueles que almejam o ingresso no quadro de funcionários.
 CLARISSE SANTOS; desenvolvedora.          
 DOUGLAS BARBOZA; PO                      
 JAQUELINE BEZERRA; desenvolvedora.       
-RAFAEL RODRIGUES; SCRUM master      ----->   Contato: Kurt.Rodrigs@gmail.com 
+RAFAEL RODRIGUES; SCRUM master   
 
