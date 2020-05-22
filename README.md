@@ -14,3 +14,4 @@ DOUGLAS BARBOZA; PO
 JAQUELINE BEZERRA; desenvolvedora.       
 RAFAEL RODRIGUES; SCRUM master   
 
+![]0.0.1.gif
