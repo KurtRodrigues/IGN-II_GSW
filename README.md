@@ -15,6 +15,6 @@ JAQUELINE BEZERRA; desenvolvedora.
 RAFAEL RODRIGUES; SCRUM master   
 
 ------------------------------------------------------------------------------------------------------------------------
-Versão 0.0.1
+Versão 0.0.3
 
 ![](https://raw.githubusercontent.com/KurtRodrigues/IGN-II_GSW/master/2%C2%BA%20Entrega/Demonstra%C3%A7%C3%A3o%200.0.1.gif)
